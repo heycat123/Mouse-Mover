@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mouse Mover")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71b835e3780ee099c62fe07ad7ace914aa282e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mouse Mover")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mouse Mover")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
